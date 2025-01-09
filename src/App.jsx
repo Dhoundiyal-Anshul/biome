@@ -1,4 +1,4 @@
-import Canvas from "./canvas";
+import Canvas from "./Canvas";
 import "./index.css";
 import data from "./data";
 import LocomotiveScroll from "locomotive-scroll";
