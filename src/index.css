@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #00ad4a;
+  /* background-color: black; */
+  /* Hide the scrollbar globally */
+
+  overflow: hidden;
+}
